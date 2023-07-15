@@ -1,6 +1,9 @@
 # Prerequisites
 *.d
 
+# Vs folders
+.vs
+
 # Output directories
 x64
 
