@@ -1,6 +1,9 @@
 # Prerequisites
 *.d
 
+# Output directories
+x64
+
 # Compiled Object files
 *.slo
 *.lo
